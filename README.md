@@ -1,7 +1,7 @@
 # java_parallel_concurrent_distributed
 
 Homework assignments of these online courses, completed in my own spare time
-* [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java/)
+* [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java/): fork/join framework, futures, streams, parallel loops, barriers, chunking, phasers, pipeline parallelism, data flow computing with asyncAwait, functional and structural determinism
 
 ---
 
